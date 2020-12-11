@@ -1,0 +1,1 @@
+{"version":3,"sources":["Components/Page1.tsx"],"names":[],"mappings":"sIAEe,qBACb,OAAO","file":"static/js/3.18f50e41.chunk.js","sourcesContent":["import React from \"react\";\n\nexport default () => {\n  return <h1>Page 1</h1>;\n};\n"],"sourceRoot":""}

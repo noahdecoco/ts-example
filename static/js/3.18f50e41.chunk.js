@@ -1,0 +1,2 @@
+(this["webpackJsonpts-example"]=this["webpackJsonpts-example"]||[]).push([[3],{38:function(e,t,s){"use strict";s.r(t);var n=s(4);s(1);t.default=function(){return Object(n.jsx)("h1",{children:"Page 1"})}}}]);
+//# sourceMappingURL=3.18f50e41.chunk.js.map
